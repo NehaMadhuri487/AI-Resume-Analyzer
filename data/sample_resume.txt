@@ -1,0 +1,27 @@
+John Doe
+Email: john.doe@email.com | Phone: +1-555-0199 | Location: San Francisco, CA
+LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+
+Professional Summary:
+Detail-oriented and results-driven Senior Software Engineer with over 6 years of experience designing and implementing scalable web applications and REST APIs. Proficient in Python, FastAPI, and React.js, with hands-on experience deploying containerized services on GCP.
+
+Technical Skills:
+- Languages: Python, JavaScript, TypeScript, SQL, HTML/CSS
+- Frameworks & Libraries: FastAPI, Flask, React, Redux, Node.js
+- Cloud & DevOps: GCP, AWS, Docker, Kubernetes, Git, GitHub Actions
+- Databases: PostgreSQL, Redis, MongoDB
+
+Professional Experience:
+Senior Software Engineer | TechCorp Inc. | 2022 - Present
+- Led the migration of a legacy monolithic service to FastAPI microservices, reducing API response times by 35%.
+- Designed and built a dynamic analytics dashboard using React, TailwindCSS, and D3.js, improving client retention by 15%.
+- Mentored 4 junior engineers and established robust CI/CD practices using GitHub Actions and Docker.
+- Integrated OpenAI models to automate customer support routing, decreasing ticket resolution time by 20%.
+
+Software Engineer | StartupLabs | 2020 - 2022
+- Developed core API features using Python/Flask and PostgreSQL, handling over 10k daily active users.
+- Maintained React-based frontend components, ensuring mobile responsiveness and web accessibility.
+- Optimized slow SQL queries and database indexes, reducing search latencies by 40%.
+
+Education:
+Bachelor of Science in Computer Science | University of California, Berkeley | 2016 - 2020

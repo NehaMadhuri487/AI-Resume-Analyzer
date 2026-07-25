@@ -1,0 +1,17 @@
+Job Title: Senior Software Engineer (Python & React)
+
+About the Role:
+We are looking for a Senior Software Engineer to join our core product team. You will be responsible for designing, building, and maintaining robust web applications, data pipelines, and integrating AI features.
+
+Required Skills & Experience:
+- 5+ years of experience in Python development (Django, FastAPI, or Flask).
+- Strong experience with React.js, TypeScript, and modern frontend workflows.
+- Experience building and deploying RESTful APIs and microservices.
+- Experience with cloud platforms (AWS, GCP, or Azure), Docker, and CI/CD pipelines.
+- Solid understanding of database systems (PostgreSQL, MongoDB).
+- Familiarity with Large Language Models (LLMs) and integration (OpenAI API, Google Gemini).
+
+Preferred Qualifications:
+- Master's degree in Computer Science or a related field.
+- Excellent communication and collaboration skills.
+- Experience in agile development environments.
