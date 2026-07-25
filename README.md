@@ -1,4 +1,3 @@
-# AI-Resume-Analyzer
 # 🚀 AI Resume Analyzer
 
 An AI-powered Resume Analyzer built with **Streamlit** that evaluates resumes against a target job description using AI and a Hybrid ATS scoring system. The application provides semantic matching, keyword analysis, and personalized suggestions to improve resume quality.
